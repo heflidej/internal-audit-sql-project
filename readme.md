@@ -100,7 +100,8 @@ ________________________________________
 4.	Review results and compare against expected control behavior.
 ________________________________________
 🧑‍💻 Author
-Justice Kwabena Heflide 
+Justice Kwabena Heflide
+
 Internal Control & Data Analytics Professional
 SQL • Audit Analytics • Financial Crime • Risk & Controls
 
