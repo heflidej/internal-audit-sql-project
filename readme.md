@@ -103,6 +103,7 @@ ________________________________________
 Justice Kwabena Heflide
 
 Internal Control & Data Analytics Professional
+
 SQL • Audit Analytics • Financial Crime • Risk & Controls
 
 
