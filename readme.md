@@ -4,20 +4,22 @@ A SQL based audit analytics project by Justice Kwabena Heflide
 ________________________________________
 📌 Project Overview
 This project demonstrates how internal auditors can use SQL driven analytics to evaluate the effectiveness of transaction monitoring controls within a financial institution. Using a synthetic banking dataset, the project performs a series of audit tests to identify:
-•	High value transactions
-•	Control exceptions
-•	Potential financial crime indicators
-•	Monitoring coverage gaps
-•	Customer and merchant risk patterns
+1.	High value transactions
+2.	Control exceptions
+3.	Potential financial crime indicators
+4.	Monitoring coverage gaps
+5.	Customer and merchant risk patterns
+   
 The project is built in Microsoft SQL Server Management Studio (SSMS) and is designed to showcase practical audit analytics techniques for internal audit, compliance, and financial crime teams.
 ________________________________________
 📂 Dataset Description
 The project uses four CSV files representing core banking data:
+
 File	                     Description
 customers.csv	             Customer profiles including country and risk rating
 accounts.csv	             Account details and status (Active/Inactive)
 transactions.csv	         All financial transactions with merchant, channel, and country
-alerts.csv	                 Transaction monitoring alerts triggered by the system
+alerts.csv	               Transaction monitoring alerts triggered by the system
 
 These datasets simulate a realistic environment for testing AML and internal audit controls.
 ________________________________________
@@ -97,8 +99,6 @@ ________________________________________
 3.	Execute each audit test section to generate findings.
 4.	Review results and compare against expected control behavior.
 ________________________________________
-
-
 🧑‍💻 Author
 Justice Kwabena Heflide 
 Internal Control & Data Analytics Professional
