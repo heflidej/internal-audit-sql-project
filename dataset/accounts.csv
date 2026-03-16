@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,opened_date,status
+2001,1001,Checking,2022-01-01,Active
+2002,1002,Savings,2021-06-15,Active
+2003,1003,Checking,2023-03-01,Active
+2004,1004,Savings,2020-11-10,Inactive
+2005,1005,Checking,2022-07-19,Active

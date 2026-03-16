@@ -1,0 +1,7 @@
+transaction_id,account_id,transaction_date,amount,country,merchant,channel
+5001,2001,2025-02-01 10:01:00,200,US,Amazon,Online
+5002,2001,2025-02-01 10:15:00,12000,US,Apple,Online
+5003,2002,2025-02-02 14:20:00,500,Spain,Zara,POS
+5004,2003,2025-02-03 03:12:00,7000,UAE,Electronics Store,Online
+5005,2004,2025-02-04 09:30:00,300,UK,Tesco,POS
+5006,2005,2025-02-04 11:10:00,15000,Singapore,Car Dealer,Online
