@@ -1,5 +1,6 @@
 ________________________________________
 📘 Internal Audit Analytics Project– Transaction Monitoring Review
+
 A SQL based audit analytics project by Justice Kwabena Heflide
 ________________________________________
 📌 Project Overview
@@ -64,18 +65,27 @@ ________________________________________
 ________________________________________
 📁 Project Structure
 internal-audit-sql-project
+
 │
 ├── dataset
+
 │   ├── customers.csv
+
 │   ├── accounts.csv
+
 │   ├── transactions.csv
+
 │   └── alerts.csv
 │
 ├── sql
+
 │   └── audit_tests.sql
+
 │
 ├── report
+
 │   └── audit_findings.md
+
 │
 └── README.md
 
